@@ -17,3 +17,8 @@
 
 ![CreateDashboard](http://i.imgur.com/qXJiS3e.png)
 ![Dashboard](http://i.imgur.com/ewd0Cxs.png)
+
+### #CE6969
+
+![CreateDashboard](http://i.imgur.com/gedfrMo.png)
+![Dashboard](http://i.imgur.com/NlgvuDl.png)
