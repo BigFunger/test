@@ -23,12 +23,17 @@
 ![CreateDashboard](http://i.imgur.com/gedfrMo.png)
 ![Dashboard](http://i.imgur.com/NlgvuDl.png)
 
-### #F3BC18 (jurgen 1)
+### #F3BC18 (jurgen 1, Status Palette - Status: Yellow)
 
 ![CreateDashboard](http://i.imgur.com/Soz36Zz.png)
 ![Dashboard](http://i.imgur.com/ApgtMQa.png)
 
-### #57C17B (jurgen 2)
+### #57C17B (jurgen 2, Kibana Data Viz Core Palette - Kibana One)
 
 ![CreateDashboard](http://i.imgur.com/8i55jnc.png)
 ![Dashboard](http://i.imgur.com/4l78Jr9.png)
+
+## #6F87D8 (Kibana Data Viz Core Palette - Kibana Three)
+
+![CreateDashboard](http://i.imgur.com/aa7kkep.png)
+![Dashboard](http://i.imgur.com/GDj9QST.png)
