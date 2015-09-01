@@ -22,3 +22,13 @@
 
 ![CreateDashboard](http://i.imgur.com/gedfrMo.png)
 ![Dashboard](http://i.imgur.com/NlgvuDl.png)
+
+### #F3BC18 (jurgen 1)
+
+![CreateDashboard](http://i.imgur.com/Soz36Zz.png)
+![Dashboard](http://i.imgur.com/ApgtMQa.png)
+
+### #57C17B (jurgen 2)
+
+![CreateDashboard](http://i.imgur.com/8i55jnc.png)
+![Dashboard](http://i.imgur.com/4l78Jr9.png)
